@@ -1,0 +1,5 @@
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee" version="6.1">
+    <request-character-encoding>UTF-8</request-character-encoding>
+    <response-character-encoding>UTF-8</response-character-encoding>
+
+</web-app>

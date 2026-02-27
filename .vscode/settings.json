@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.dependency.packagePresentation": "hierarchical",
+    "maven.terminal.favorites": [
+        {
+            "command": "clean package",
+            "debug": false
+        }
+    ]
+}

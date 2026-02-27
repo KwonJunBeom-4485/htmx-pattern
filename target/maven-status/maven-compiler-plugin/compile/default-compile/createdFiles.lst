@@ -1,0 +1,4 @@
+com\example\ui\edit\InlineEditServlet.class
+com\example\config\DBConfig.class
+com\example\config\EntityManagerProducer.class
+com\example\ui\common\Member.class
