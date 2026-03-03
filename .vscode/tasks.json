@@ -12,6 +12,12 @@
 			"type": "shell",
 			"command": "mvn fish.payara.maven.plugins:payara-micro-maven-plugin:stop",
 			"group": "build"
+		},
+		{
+			"label": "payara-micro-reload",
+			"type": "shell",
+			"command": "mvn resources:resources compiler:compile war:exploded fish.payara.maven.plugins:payara-micro-maven-plugin:reload",
+			"group": "build"
 		}
 	]
 }
