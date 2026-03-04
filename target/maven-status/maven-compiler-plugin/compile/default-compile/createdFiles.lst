@@ -1,8 +1,10 @@
 com\example\ui\bulk\BulkDeleteServlet.class
 com\example\ui\validation\ValidationServlet.class
+com\example\ui\sse\SseServlet.class
 com\example\ui\edit\InlineEditServlet.class
 com\example\ui\tabs\TabServlet.class
 com\example\config\DBConfig.class
 com\example\config\EntityManagerProducer.class
 com\example\ui\common\Member.class
 com\example\ui\scroll\ScrollServlet.class
+com\example\ui\sse\SseServlet$1.class
